@@ -4,6 +4,14 @@ Twig and PHP PhpStorm Live Templates for Craft CMS 3.
 
 The **Craft CMS** Live Templates include various snippets for Craft-specific Twig tags and some other common use cases. Best when paired with [Twig - Extended](https://github.com/BarrelStrength/PhpStorm-Live-Templates-Twig-Extended) - a more extensive library of PhpStorm Live Templates for Twig.
 
+## Installation
+
+1. Go to *PhpStorm Preferences | Tools | Settings Repository*
+
+2. Add Read-only Source https://github.com/barrelstrength/PhpStorm-Live-Templates-Craft-CMS
+
+3. Restart PhpStorm
+
 ## Craft CMS - Twig
 
 ### Craft Twig Tags (via tab trigger)
@@ -103,10 +111,6 @@ The **Craft CMS** Live Templates include various snippets for Craft-specific Twi
     dd                       Craft::dd("Dump & Die");
 
 ----
-
-## Installation
-
-Copy the Live Template group configuration files to the `templates` folder in the location where PhpStorm stores Live Templates on your operating system. Live template group configuration files are stored in the templates directory of the [IDE configuration directory](https://www.jetbrains.com/help/phpstorm/tuning-the-ide.html#config-directory). If a `templates` folder doesn't exist in your configuration directory, go ahead and create it.
 
 ### Live Template group configuration files
 
