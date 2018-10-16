@@ -1,4 +1,4 @@
-<templateSet group="Craft CMS - PHP">
+<templateSet group="Craft CMS PHP">
   <template name="dd" value="Craft::dd($SELECTION$);" description="Craft::dd(&quot;Dump &amp; Die&quot;);" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="Twig" value="true" />

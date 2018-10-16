@@ -1,4 +1,4 @@
-<templateSet group="Craft CMS - Twig">
+<templateSet group="Craft CMS Twig">
   <template name="ceil" value="ceil($NUMBER$)" description="ceil(number)" toReformat="false" toShortenFQNames="true">
     <variable name="NUMBER" expression="" defaultValue="&quot;number&quot;" alwaysStopAt="true" />
     <context>
